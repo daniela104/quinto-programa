@@ -6,7 +6,7 @@
  
 3. Entrar na pasta
 
-`cd quarto-programa`
+`cd <nome-do-programa>-programa`
 
 > caso queira também pode voltar uma pasta
 
